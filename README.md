@@ -2,17 +2,17 @@ Data Structure & Algorithms (JAVA)
 
 Goals to perform using JAVA are as follows:
 
-Arrays
-String
-Linked List
-Searching Algorithm
-Sorting Algorithm
-Divide & Conquer Algorithm
-Stack
-Queue
-Tree Data Structure
-Graph Data Structure
-Greedy Methodolgy
-Recursion
-Backtracking Algorithm
-Dynamic Programming
+1. Arrays
+2. String
+3. Linked List
+4. Searching Algorithm
+5. Sorting Algorithm
+6. Divide & Conquer Algorithm
+7. Stack
+8. Queue
+9. Tree Data Structure
+10. Graph Data Structure
+11. Greedy Methodolgy
+12. Recursion
+13. Backtracking Algorithm
+14. Dynamic Programming
