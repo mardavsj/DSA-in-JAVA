@@ -1,4 +1,4 @@
-package Mardav;
+package JavaBasics;
 
 public class Main {
     public static void main(String[] args) {

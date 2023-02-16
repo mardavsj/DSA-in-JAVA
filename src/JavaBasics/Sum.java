@@ -1,4 +1,4 @@
-package Mardav;
+package JavaBasics;
 import java.util.Scanner;
 
 public class Sum {
