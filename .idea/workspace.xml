@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Mardav/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mardav/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="casting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676371556861</updated>
     </task>
+    <task id="LOCAL-00001" summary="casting">
+      <created>1676527166654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676527166654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="casting" />
   </component>
 </project>
