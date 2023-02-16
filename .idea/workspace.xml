@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="casting" />
+    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="casting">
+      <change beforePath="$PROJECT_DIR$/src/Mardav/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mardav/TypeCasting.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676527166654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="casting">
+      <created>1676527410055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676527410055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
