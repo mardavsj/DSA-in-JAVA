@@ -30,6 +30,5 @@ public class TypeCasting {
         double result = (f * by) + (f / ch) - (db - s + i);
         System.out.println((f * by) + "" + (f / ch) + "" + (db - s));
         System.out.print(result);
-
     }
 }
