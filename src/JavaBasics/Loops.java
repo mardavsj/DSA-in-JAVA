@@ -25,7 +25,7 @@ public class Loops {
         }
 
         // Print using do-while loop.
-        int a = 1;
+        int a = 2;
         do {
             System.out.println("Same again, Hello World");
         }
