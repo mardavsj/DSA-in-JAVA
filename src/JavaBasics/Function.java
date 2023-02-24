@@ -15,8 +15,7 @@ public class Function {
         int num3 = input.nextInt();
         System.out.print("Enter the second number:");
         int num4 = input.nextInt();
-        int sums = num3+num4;
-        return sums;
+        return num3+num4;
     }
 
     static void sum(){
