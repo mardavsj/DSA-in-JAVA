@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="string">
+    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="methods">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasics/Swapping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasics/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,13 +151,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677243241478</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="methods">
+      <created>1677243842312</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677243842312</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="casting" />
-    <MESSAGE value="methods" />
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="methods" />
   </component>
 </project>
