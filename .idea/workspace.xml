@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="methods">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasics/String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasics/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Lj5GPmj7d0o7sJ3Zf3LhQvLnEy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677239963756</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="methods">
+      <created>1677241703278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677241703278</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
