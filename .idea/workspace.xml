@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="swap">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasics/ChangeValue.java" afterDir="false" />
+    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="changing values">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasics/Scoping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677245232965</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="changing values">
+      <created>1677318728995</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677318728995</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +180,7 @@
     <MESSAGE value="string" />
     <MESSAGE value="methods" />
     <MESSAGE value="swap" />
-    <option name="LAST_COMMIT_MESSAGE" value="swap" />
+    <MESSAGE value="changing values" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing values" />
   </component>
 </project>
