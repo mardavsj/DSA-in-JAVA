@@ -15,4 +15,4 @@ Goals to perform using JAVA are as follows:
 11. Greedy Methodolgy
 12. Recursion
 13. Backtracking Algorithm
-14. Dynamic Programming
+14. Dynamic Programming.
