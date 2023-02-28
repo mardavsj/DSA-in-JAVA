@@ -2,7 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
-public class PracticeQuestion {
+public class PracticeQ1 {
 
     // Prime and not prime numbers.
 
