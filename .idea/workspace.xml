@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="prime/non-prime">
-      <change afterPath="$PROJECT_DIR$/Data-Structures/src/Arrays/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data-Structures/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="arrays basic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677589896447</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="arrays">
+      <created>1678444841711</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678444841711</updated>
+    </task>
+    <task id="LOCAL-00025" summary="arrays basic">
+      <created>1678444870184</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678444870184</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +253,8 @@
     <MESSAGE value="Variable-length-arguments" />
     <MESSAGE value="function-overloading" />
     <MESSAGE value="prime/non-prime" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime/non-prime" />
+    <MESSAGE value="arrays" />
+    <MESSAGE value="arrays basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays basic" />
   </component>
 </project>
