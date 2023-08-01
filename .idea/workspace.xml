@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="reverse a string">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasics/PracticeQ5.java" afterDir="false" />
+    <list default="true" id="54ab26a5-71d6-438c-b6b6-92a3222553f6" name="Changes" comment="counting the data">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasics/PracticeQ6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690902423749</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="counting the data">
+      <created>1690902865919</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1690902865919</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,6 +302,7 @@
     <MESSAGE value="area &amp; perimeter" />
     <MESSAGE value="swap two variables" />
     <MESSAGE value="reverse a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse a string" />
+    <MESSAGE value="counting the data" />
+    <option name="LAST_COMMIT_MESSAGE" value="counting the data" />
   </component>
 </project>
