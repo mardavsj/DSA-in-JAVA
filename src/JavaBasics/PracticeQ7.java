@@ -1,5 +1,6 @@
 package JavaBasics;
 
+// Convert a given uppercase string into lowercase.
 import java.util.Scanner;
 
 public class PracticeQ7 {
