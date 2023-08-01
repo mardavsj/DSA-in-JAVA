@@ -1,6 +1,5 @@
 package JavaBasics;
 
-// Print the area and perimeter of a rectangle.
 public class PracticeQ2 {
     public static void main(String[] strings) {
 
