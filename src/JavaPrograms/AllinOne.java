@@ -1,5 +1,6 @@
 package JavaPrograms;
 import java.util.Scanner;
+
 public class AllinOne {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
