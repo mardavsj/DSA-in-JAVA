@@ -1,4 +1,5 @@
 package JavaPrograms;
+
 public class Pattern2_WhileLoop {
     public static void main(String[] args) {
 
